@@ -5,12 +5,11 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net;
 using System.IO;
-using System.Runtime.Serialization.Json;
 using System.Diagnostics;
+using System.Runtime.Serialization.Json;
 
 namespace CloudFlare_DDNS
 {
@@ -231,6 +230,7 @@ namespace CloudFlare_DDNS
             string sSource = "CloudFlare DDNS Updater";
             string sLog = "Application";
 
+            /*
             if (!EventLog.SourceExists(sSource))
                 EventLog.CreateEventSource(sSource, sLog);
 
@@ -243,6 +243,7 @@ namespace CloudFlare_DDNS
                 default: row.ImageIndex = 0; EventLog.WriteEntry(sSource, message, EventLogEntryType.Information); break;
             }
             row.SubItems.Add(message);
+            */
         }
 
         /// <summary>
@@ -343,6 +344,12 @@ namespace CloudFlare_DDNS
             ShowInTaskbar = true;
             notifyIcon1.Visible = false;
             WindowState = FormWindowState.Normal;
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAbout abt = new frmAbout();
+            abt.ShowDialog();
         }
     }
 }

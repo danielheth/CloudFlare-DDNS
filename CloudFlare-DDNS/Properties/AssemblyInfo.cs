@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CloudFlare DDNS")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CloudFlare-DDNS")]
+[assembly: AssemblyDescription("Dynamic DNS Updater for CloudFlare on Windows")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CloudFlare DDNS")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("Moran, Inc.")]
+[assembly: AssemblyProduct("CloudFlare-DDNS")]
+[assembly: AssemblyCopyright("Copyright © Moran, Inc. 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c42d0ef0-c656-47f2-bfcc-8b8c11f91f3c")]
+[assembly: Guid("9896bb59-ce32-4cfd-95f6-ff651afcc2a4")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,9 @@
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare_DDNS.frmMain.resources
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare_DDNS.frmSettings.resources
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare_DDNS.Properties.Resources.resources
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare-DDNS.csproj.GenerateResource.Cache
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\bin\Debug\CloudFlare-DDNS.exe
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\bin\Debug\CloudFlare-DDNS.pdb
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare-DDNS.exe
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare-DDNS.pdb
+z:\daniel\workspace\CloudFlare-DDNS\CloudFlare-DDNS\CloudFlare-DDNS\obj\x86\Debug\CloudFlare_DDNS.frmAbout.resources

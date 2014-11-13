@@ -5,7 +5,6 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace CloudFlare_DDNS
@@ -48,6 +47,7 @@ namespace CloudFlare_DDNS
             Properties.Settings.Default.APIKey = txtAPIKey.Text;
             Properties.Settings.Default.AutoFetchTime = txtFetchTime.Text;
             Properties.Settings.Default.Save();
+            this.Close();
         }
 
         /// <summary>
